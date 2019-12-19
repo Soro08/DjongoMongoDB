@@ -1,6 +1,6 @@
 # DjongoMongoDB
 Tuto pour expliquer l'installation de Djongo et MongoDB
-
+https://medium.com/@christosstath10/django-expenses-7dfd8fb13fc9
 ## 1
 
 - Pour utiliser le package **Djongo**, il faut installer MongoDB. Le lien du site: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/, qui est une Base de Donnee NOsql.
